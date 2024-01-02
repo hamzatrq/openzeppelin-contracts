@@ -1,0 +1,305 @@
+repo_name: hamzatrq/openzeppelin-contracts
+report_id: b1eac11696d70a011ec7520c596c0881
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-02T18:01:21+00:00'
+requested_by: sudo-vaibhav
+provider: github
+branch: master
+detected_tools_count: 24
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Ethereum
+  description: Open source platform to write and distribute decentralized applications
+  website_url: https://ethereum.org
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Blockchain
+  image_url: https://img.stackshare.io/service/1634/default_dacdb57c0b4f9d422e4a23aed8b9bbf7a6024fed.jpg
+  detection_source: package.json
+  last_updated_by: Francisco Giordano
+  last_updated_on: 2020-12-02 16:17:24.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Manuel Araoz
+  last_updated_on: 2016-08-18 19:30:17.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source: ".codecov.yml"
+  last_updated_by: Francisco Giordano
+  last_updated_on: 2019-08-07 23:36:39.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: ".eslintrc"
+  last_updated_by: Matt Condon
+  last_updated_on: 2017-11-24 12:31:40.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/test.yml"
+  last_updated_by: renovate[bot]
+  last_updated_on: 2020-12-22 19:06:12.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hadrien Croubois
+  last_updated_on: 2021-06-07 15:33:03.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: Manuel Araoz
+  last_updated_on: 2016-08-18 19:30:17.000000000 Z
+- name: Netlify
+  description: Build, deploy and host your static site or app with a drag and drop
+    interface and automatic delpoys from GitHub or Bitbucket
+  website_url: https://www.netlify.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source: netlify.toml
+  last_updated_by: Francisco Giordano
+  last_updated_on: 2019-04-23 15:25:22.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source: Repo Metadata
+- name: web3
+  website_url: https://github.com/ethereum/web3.js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source: package.json
+  last_updated_by: Hadrien Croubois
+  last_updated_on: 2021-04-09 14:09:16.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript Standard Style - ESLint Shareable Config
+  package_url: https://www.npmjs.com/eslint-config-standard
+  version: 14.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hadrien Croubois
+  last_updated_on: 2021-06-07 15:33:03.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.23.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hadrien Croubois
+  last_updated_on: 2021-06-07 15:33:03.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hadrien Croubois
+  last_updated_on: 2021-06-18 15:08:13.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 4.3.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hadrien Croubois
+  last_updated_on: 2021-06-07 15:33:03.000000000 Z
+- name: eslint-plugin-standard
+  description: ESlint Plugin for the Standard Linter
+  package_url: https://www.npmjs.com/eslint-plugin-standard
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hadrien Croubois
+  last_updated_on: 2021-06-07 15:33:03.000000000 Z
+- name: ethereumjs-util
+  description: A collection of utility functions for Ethereum
+  package_url: https://www.npmjs.com/ethereumjs-util
+  version: 6.2.1
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16835/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Francisco Giordano
+  last_updated_on: 2020-12-02 16:17:24.000000000 Z
+- name: ethereumjs-wallet
+  description: Utilities for handling Ethereum keys
+  package_url: https://www.npmjs.com/ethereumjs-wallet
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18246/default_42444f560291e764861faaf607f48484f4d14cba.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Francisco Giordano
+  last_updated_on: 2020-12-02 16:17:24.000000000 Z
+- name: micromatch
+  description: Glob matching for javascript/node.js
+  package_url: https://www.npmjs.com/micromatch
+  version: 3.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17143/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Francisco Giordano
+  last_updated_on: 2021-06-11 18:09:32.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.6.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Francisco Giordano
+  last_updated_on: 2020-11-11 20:47:15.000000000 Z
+- name: solidity-coverage
+  description: "[![Gitter chat]"
+  package_url: https://www.npmjs.com/solidity-coverage
+  version: 0.7.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18573/default_fb79d45b291e13c71fc773f6fb21d0111f62c104.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hadrien Croubois
+  last_updated_on: 2021-06-18 15:08:13.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 13.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2021-05-03 19:43:57.000000000 Z
