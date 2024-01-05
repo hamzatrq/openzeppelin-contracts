@@ -2,11 +2,11 @@ repo_name: hamzatrq/openzeppelin-contracts
 report_id: b1eac11696d70a011ec7520c596c0881
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T18:01:21+00:00'
+timestamp: '2024-01-05T08:11:27+00:00'
 requested_by: sudo-vaibhav
 provider: github
 branch: master
-detected_tools_count: 24
+detected_tools_count: 25
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts
   detection_source: Repo Metadata
 - name: Ethereum
   description: Open source platform to write and distribute decentralized applications
@@ -27,6 +28,7 @@ tools:
   category: Data Stores
   sub_category: Blockchain
   image_url: https://img.stackshare.io/service/1634/default_dacdb57c0b4f9d422e4a23aed8b9bbf7a6024fed.jpg
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package.json
   detection_source: package.json
   last_updated_by: Francisco Giordano
   last_updated_on: 2020-12-02 16:17:24.000000000 Z
@@ -52,6 +54,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/.codecov.yml
   detection_source: ".codecov.yml"
   last_updated_by: Francisco Giordano
   last_updated_on: 2019-08-07 23:36:39.000000000 Z
@@ -64,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/.eslintrc
   detection_source: ".eslintrc"
   last_updated_by: Matt Condon
   last_updated_on: 2017-11-24 12:31:40.000000000 Z
@@ -75,6 +79,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -84,6 +89,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/.github/workflows/test.yml
   detection_source: ".github/workflows/test.yml"
   last_updated_by: renovate[bot]
   last_updated_on: 2020-12-22 19:06:12.000000000 Z
@@ -109,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package.json
   detection_source: package.json
   last_updated_by: Manuel Araoz
   last_updated_on: 2016-08-18 19:30:17.000000000 Z
@@ -121,6 +128,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/netlify.toml
   detection_source: netlify.toml
   last_updated_by: Francisco Giordano
   last_updated_on: 2019-04-23 15:25:22.000000000 Z
@@ -133,6 +141,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts
   detection_source: Repo Metadata
 - name: solidity
   description: How people build software
@@ -140,12 +149,14 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts
   detection_source: Repo Metadata
 - name: web3
   website_url: https://github.com/ethereum/web3.js/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package.json
   detection_source: package.json
   last_updated_by: Hadrien Croubois
   last_updated_on: 2021-04-09 14:09:16.000000000 Z
@@ -289,6 +300,27 @@ tools:
   detection_source: package.json
   last_updated_by: Hadrien Croubois
   last_updated_on: 2021-06-18 15:08:13.000000000 Z
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 1.3.6
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/hamzatrq/openzeppelin-contracts/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hadrien Croubois
+  last_updated_on: 2021-04-09 14:09:16.000000000 Z
+  vulnerabilities:
+  - name: Insecure Credential Storage in web3
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-27v7-qhfv-rqq8
+    detected_date: Aug 22
+    severity: low
+    first_patched: 
 - name: yargs
   description: Yargs the modern, pirate-themed, successor to optimist
   package_url: https://www.npmjs.com/yargs
