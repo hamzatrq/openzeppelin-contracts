@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hamzatrq/openzeppelin-contracts](https://github.com/hamzatrq/openzeppelin-contracts)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|24<br/>Tools used|01/02/24 <br/>Report generated|
+|25<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -174,9 +174,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (12)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (11)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -190,6 +190,7 @@ Full tech stack [here](/techstack.md)
 |[micromatch](https://www.npmjs.com/micromatch)|v3.1.10|06/11/21|Francisco Giordano |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v2.6.3|11/11/20|Francisco Giordano |ISC|N/A|
 |[solidity-coverage](https://www.npmjs.com/solidity-coverage)|v0.7.16|06/18/21|Hadrien Croubois |MIT|N/A|
+|[web3](https://www.npmjs.com/web3)|v1.3.6|04/09/21|Hadrien Croubois |LGPL-3.0|[](https://github.com/advisories/GHSA-27v7-qhfv-rqq8) (Low)|
 |[yargs](https://www.npmjs.com/yargs)|v13.3.2|05/03/21|renovate[bot] |MIT|N/A|
 
 <br/>
