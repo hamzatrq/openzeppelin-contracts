@@ -7,11 +7,11 @@ hamzatrq/openzeppelin-contracts is built on the following main stack:
 - [Ethereum](https://ethereum.org) – Blockchain
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
 - [Codecov](https://codecov.io/) – Code Coverage
-- [Netlify](https://www.netlify.com/) – Static Web Hosting
 - [ESLint](http://eslint.org/) – Code Review
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Prettier](https://prettier.io/) – Code Review
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Prettier](https://prettier.io/) – Code Review
+- [Netlify](https://www.netlify.com/) – Static Web Hosting
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -25,11 +25,11 @@ hamzatrq/openzeppelin-contracts is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/1634/default_dacdb57c0b4f9d422e4a23aed8b9bbf7a6024fed.jpg' alt='Ethereum'/> [Ethereum](https://ethereum.org) – Blockchain
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hamzatrq/openzeppelin-contracts](https://github.com/hamzatrq/openzeppelin-contracts)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|25<br/>Tools used|01/05/24 <br/>Report generated|
+|25<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
