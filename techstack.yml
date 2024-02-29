@@ -2,7 +2,7 @@ repo_name: hamzatrq/openzeppelin-contracts
 report_id: b1eac11696d70a011ec7520c596c0881
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:11:27+00:00'
+timestamp: '2024-02-29T19:23:30+00:00'
 requested_by: sudo-vaibhav
 provider: github
 branch: master
@@ -94,7 +94,7 @@ tools:
   last_updated_by: renovate[bot]
   last_updated_on: 2020-12-22 19:06:12.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.1
   license: MIT
